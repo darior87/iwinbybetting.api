@@ -1,0 +1,119 @@
+10
+
+dir
+0
+http://ofunwebservices.com:8080/svn/iwinbybetting.api/system/language/english
+http://ofunwebservices.com:8080/svn/iwinbybetting.api
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2d2f4188-1be5-d146-99a9-925bc8b6be17
+
+number_lang.php
+file
+
+
+
+add
+
+calendar_lang.php
+file
+
+
+
+add
+
+ftp_lang.php
+file
+
+
+
+add
+
+migration_lang.php
+file
+
+
+
+add
+
+date_lang.php
+file
+
+
+
+add
+
+form_validation_lang.php
+file
+
+
+
+add
+
+unit_test_lang.php
+file
+
+
+
+add
+
+profiler_lang.php
+file
+
+
+
+add
+
+imglib_lang.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+upload_lang.php
+file
+
+
+
+add
+
+db_lang.php
+file
+
+
+
+add
+
+email_lang.php
+file
+
+
+
+add
+
